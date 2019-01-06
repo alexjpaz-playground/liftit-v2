@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "lerna": "^2.7.0"
+    "lerna": "^3.8.5"
   },
   "scripts": {
     "postinstall": "lerna --loglevel=error bootstrap",
